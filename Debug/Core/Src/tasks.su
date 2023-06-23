@@ -1,0 +1,2 @@
+../Core/Src/tasks.c:6:16:my_i2c_xfer	40	static
+../Core/Src/tasks.c:46:6:task_alpha	24	static
